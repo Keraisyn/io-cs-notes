@@ -78,6 +78,8 @@ Strings are specified with quotation marks around text. `"Hello World!"`, `"e"`,
 
 Beware! Even though `7` and `"7"` both look like whole numbers, they are different! `7` is an integer while `"7"` is a string. Can you tell why?
 
+There's another type that you'll see often. *Floats* are decimal numbers. `2.15`, `-02`, `5.0` are examples of floats.
+
 <details>
 <summary>Answer</summary>
 

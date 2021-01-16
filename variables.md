@@ -59,6 +59,8 @@ Output:
 7
 ```
 
+You can assign a variable 
+
 ### Variables as Signs
 Variables can also be thought of as signs pointing to objects. A sign that says "doctor" points to Dr. Smith. A sign that says "my_number" points to 6. When I set my_number to 7, the sign stops pointing to 6, and points to 7.
 
@@ -114,6 +116,29 @@ print("My age is", my_age)
 ```
 
 </details>
+
+## Variable Examples
+Let's check out some examples of manipulating variables.
+
+You can put variables on the right side as well.
+```python
+a = 23
+b = 2
+c = a + b   # The value of c is 25
+
+Calculated as...
+
+c = 23 + 2
+```
+
+Multiple variables can have the same value. Just like how one person can have multiple nametags, or multiple signs can point at one person.
+
+```python
+doctor = "Dr. Smith"
+father = "Dr. Smith"
+
+# doctor and father both have the value "Dr. Smith"
+```
 
 ## Getting User Input
 By getting input directly from the using, we are able to change the input every time we run the program. There's a handy function built in to Python. It's called `input()`. This function will prompt the user for an input and save it as a string.  
