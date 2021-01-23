@@ -4,7 +4,9 @@
 People have to make decisions everyday: You might need to choose whether to wear a snowcoat. We can make these decisions by thinking about *conditions*. For example, to decide whether you need to wear a snowcoat, you might first look at the weather.
 
 This is a *flowchart*:
+
 ![](./assets/3_if_and_conditions_fig1.png)
+
 Flowcharts help us plan out decisions and the *flow* of decision-making. While programming, it's helpful to think of there being a flow that the program follows depending on certain conditions (Like the weather being below 0 degrees).
 
 ## Decision-making in Programs
